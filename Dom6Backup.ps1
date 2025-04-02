@@ -4,7 +4,7 @@
 # Define the folderPath variable.
 # If for some reason one prefers a gamename can be provided here, instead of the shortcut method.
 param (
-    [string]$folderPath = "EA_Gio4"
+    [string]$folderPath = "GameNameHere"
 )
 
 # Check if folder exists
